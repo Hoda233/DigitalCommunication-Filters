@@ -1,6 +1,6 @@
 # DigitalCommunication-Filters
 
-This assignment is to simulate communication system, apply different filters to signal, calculate the probability of error
+This assignment is to simulate communication system, apply different filters to signal and calculate the probability of error.
 
 ## Results:
 ### Output of received signal with a matched filter.
